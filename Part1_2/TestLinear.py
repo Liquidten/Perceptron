@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 26 20:58:23 2018
 
-@author: sameepshah
-"""
 #local module
 import perceptron
 import generate_Data
