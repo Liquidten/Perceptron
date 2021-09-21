@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 """ Linear DATA set generation (function generateData) """
 trainset = generate_Data.generateData(100) # train set generation
 testset = generate_Data.generateData(30) # test set generation
-p = perceptron.Perceptron() # use a short
+p = perceptron.Perceptron() 
 
 
 
